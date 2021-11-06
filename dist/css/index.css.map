@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAKA;EACI;;AAEA;EACI,OAPF;;AAUF;EACI,kBAVA","file":"index.css","sourcesContent":["@import 'second';\n\n$red: red;\n$black: #000;\n\n.header {\n    background-color: #fff;\n\n    &__text {\n        color: $red;\n    }\n\n    &__content {\n        background-color: $black;\n    }\n}\n\n"]}

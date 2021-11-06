@@ -1,0 +1,17 @@
+@import 'second';
+
+$red: red;
+$black: #000;
+
+.header {
+    background-color: #fff;
+
+    &__text {
+        color: $red;
+    }
+
+    &__content {
+        background-color: $black;
+    }
+}
+
